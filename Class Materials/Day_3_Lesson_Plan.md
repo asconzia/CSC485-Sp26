@@ -3,6 +3,7 @@
 ## Overview of class structure
  
  - Merging Pull Requests on GitHub.com
+    - Pull vs. Pull Request
  - Resolving merge conflicts
 	- Default Action
 	- KDiff3 (time permitting)
